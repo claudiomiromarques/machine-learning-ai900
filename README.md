@@ -4,7 +4,7 @@
 
 <p> Neste projeto foi utlizado o Automated Machine Learning in Azure Machine Learning</p>
 
-<p> Neste laborratório seguindo o tutorial da Microsoft Azure consegui aplicar a técnica de mineração de dados chamada regressão, onde foi criado uma tarefa 
+<p> Neste laboratório seguindo o tutorial da Microsoft Azure consegui aplicar a técnica de mineração de dados chamada regressão, onde foi criado uma tarefa 
   de aprendizado de máquina automatizado para previsão de aluguel de bicicletas, todos os passos estão no link abaixo:
 
 - Link: https://microsoftlearning.github.io/mslearn-ai-fundamentals/Instructions/Labs/01-machine-learning.html</p>
