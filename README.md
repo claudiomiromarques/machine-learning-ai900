@@ -14,5 +14,5 @@
 ## 🚀 Tecnologias
 
 <div>
-  <<img src="../icons8-azure-48" alt="Logo do Azure">
+  <img src="../icons8-azure-48" alt="Logo do Azure">
 </div>
