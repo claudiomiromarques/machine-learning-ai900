@@ -9,8 +9,10 @@
 
 - Link: https://microsoftlearning.github.io/mslearn-ai-fundamentals/Instructions/Labs/01-machine-learning.html</p>
 
+<p>Informações geradas está no .json</p>
+
 ## 🚀 Tecnologias
 
 <div>
-  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.4biosacademy.com.br%2Fai-900-microsoft-azure-ai-fundamentals&psig=AOvVaw25JZFMYXS8enE9BZp2xq2p&ust=1708952881646000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCNDBp93HxoQDFQAAAAAdAAAAABAE">
+  <img src="[https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.4biosacademy.com.br%2Fai-900-microsoft-azure-ai-fundamentals&psig=AOvVaw25JZFMYXS8enE9BZp2xq2p&ust=1708952881646000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCNDBp93HxoQDFQAAAAAdAAAAABAE](https://icons8.com.br/icon/VLKafOkk3sBX/azure-1)https://icons8.com.br/icon/VLKafOkk3sBX/azure-1">
 </div>
